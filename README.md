@@ -1,7 +1,7 @@
 Comtrend
-https://edimax-app.github.io/GoSensor/Comtrend/UAT/AdHoc.html
+https://appedxtestpass168.github.io/GoSensor/Comtrend/UAT/AdHoc.html
 
 Edimax
-https://edimax-app.github.io/GoSensor/Edimax/UAT/AdHoc.html
+https://appedxtestpass168.github.io/GoSensor/Edimax/UAT/AdHoc.html
 
 
